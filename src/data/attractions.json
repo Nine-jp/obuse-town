@@ -1,0 +1,57 @@
+{
+  "attractions": [
+    {
+      "id": "1",
+      "name": "岩松院",
+      "name_en": "Gansho-in",
+      "description": "小布施の中心部にある古刹。梅洞山の山号を持つ禅宗寺院で、江戸時代には徳川家光の勅願寺として栄えました。境内には梅の名所として知られる梅林があり、春には梅祭りが開催されます。",
+      "description_en": "A historic Zen temple located in the heart of Obuse. Known as Ume-do-zan, it flourished as a Tokugawa Iemitsu's imperial prayer temple during the Edo period. The temple grounds feature a famous plum grove where the Plum Festival is held in spring.",
+      "image": "https://images.unsplash.com/photo-1593892047931-d906363c0296",
+      "address": "長野県小布施町本郷1010-1",
+      "link": "https://www.gansho-in.or.jp/"
+    },
+    {
+      "id": "2",
+      "name": "桝一市村酒造場",
+      "name_en": "Masuichi Ichiomura Brewery",
+      "description": "1755年創業の老舗蔵元。純米酒の造りに特化し、銘柄ごとに最適な米を使用しています。蔵見学や試飲も可能です。",
+      "description_en": "A traditional sake brewery established in 1755. Specializes in junmai sake, using the best rice for each brand. Offers brewery tours and tasting sessions.",
+      "image": "https://images.unsplash.com/photo-1593892047931-d906363c0296",
+      "address": "長野県小布施町本郷1010-1",
+      "link": "https://www.masuichi.com/",
+      "social_links": {
+        "facebook": "https://www.facebook.com/ObuseMasuichi",
+        "instagram": "https://www.instagram.com/masu_ichi/?hl=ja"
+      }
+    },
+    {
+      "id": "3",
+      "name": "おぶせミュージアム・中島千波館",
+      "name_en": "Obuse Museum Chiharu Nakajima Gallery",
+      "description": "小布施出身の画家・中島千波の作品を展示する美術館。日本画の魅力を堪能できます。",
+      "description_en": "A museum showcasing the works of Chiharu Nakajima, a local painter from Obuse. Enjoy the beauty of Japanese painting.",
+      "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1354-1",
+      "link": "https://www.town.obuse.nagano.jp/site/obusemuseum/",
+      "social_links": {
+        "facebook": "https://www.facebook.com/おぶせミュージアム・中島千波館-228399400879161/",
+        "twitter": "http://twitter.com/obusemuseum"
+      }
+    },
+    {
+      "id": "4",
+      "name": "北斎館",
+      "name_en": "Hokusai-kan",
+      "description": "葛飾北斎の作品を展示する美術館。北斎が過ごした生活や作品の世界を体験できます。",
+      "description_en": "A museum showcasing the works of Katsushika Hokusai. Experience Hokusai's life and his artistic world.",
+      "image": "https://images.unsplash.com/photo-1589360178384-3b8eaba1e8aa?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1354-1",
+      "link": "https://hokusai-kan.com/",
+      "social_links": {
+        "facebook": "https://www.facebook.com/hokusaikan/",
+        "instagram": "https://www.instagram.com/thehokusai_kanmuseum/",
+        "twitter": "https://twitter.com/hokusai_kan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title_ja": "4月26日　町立保育所等整備の現状説明会の動画配信",
+      "title_en": "Apr 26 - Video: Current status briefing on town nursery renovation",
+      "title_es": "26 de abril - Video: Explicación sobre la renovación de las guarderías municipales",
+      "date": "2025-04-26",
+      "link": "https://www.town.obuse.nagano.jp/docs/tyourituhoikusho.html"
+    },
+    {
+      "id": "2",
+      "title_ja": "小布施町長定例記者会見",
+      "title_en": "Regular Press Conference by Obuse Mayor",
+      "title_es": "Conferencia de prensa regular del alcalde de Obuse",
+      "date": "2025-05-01",
+      "link": "https://www.town.obuse.nagano.jp/docs/kaiken.html"
+    },
+    {
+      "id": "3",
+      "title_ja": "わんぱく教室「川遊び」",
+      "title_en": "Kids Workshop: River Play",
+      "title_es": "Taller infantil: Juego en el río",
+      "date": "2025-07-15",
+      "link": "https://www.town.obuse.nagano.jp/docs/310344.html"
+    },
+    {
+      "id": "4",
+      "title_ja": "小布施安市行事お手伝い募集",
+      "title_en": "Volunteers Needed for Obuse An-ichi Festival",
+      "title_es": "Se buscan voluntarios para el festival Obuse An-ichi",
+      "date": "2025-09-10",
+      "link": "https://www.town.obuse.nagano.jp/docs/304925.html"
+    },
+    {
+      "id": "5",
+      "title_ja": "わんぱく教室「大豆の種まき」",
+      "title_en": "Kids Workshop: Soybean Planting",
+      "title_es": "Taller infantil: Siembra de soja",
+      "date": "2025-05-20",
+      "link": "https://www.town.obuse.nagano.jp/docs/307176.html"
+    }
+  ]
+}
