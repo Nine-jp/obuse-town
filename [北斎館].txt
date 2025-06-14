@@ -63,14 +63,32 @@ https://www.obusekanko.jp/gourmet
 
 上記のURLを参考にしてレストランページを充実させて下さい。
 
-https://www.obusekanko.jp/spot/takesan
-https://www.obusekanko.jp/spot/obusean
-https://www.obusekanko.jp/spot/katsuratei
-https://www.obusekanko.jp/spot/terace
-https://www.obusekanko.jp/spot/entotsu
-https://www.obusekanko.jp/spot/obusedo
 
-上記のレストランも追加して下さい。
+[小布施 寄り付き料理 蔵部]
+https://www.obusekurabu.com/
+
+[そば歳時記 富蔵家]
+https://tomikuraya.com/
+
+[長野土鍋ラーメン たけさん]
+https://www.takesan-donabe.co.jp/
+
+[桂亭]
+https://www.obusekanko.jp/spot/katsuratei
+
+[紅茶とケーキの専門店 栗の木テラス]
+https://www.obusekanko.jp/spot/terace
+
+[えんとつ]
+https://www.obusekanko.jp/spot/entotsu
+
+[小布施堂]
+https://obusedo.com/
+
+[桜井甘精堂]
+https://www.kanseido.co.jp/
+
+上記のレストランを追加して下さい。
 
 
 cd "f:\windsurf Project\開発\Obuse Town"

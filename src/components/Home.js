@@ -2,8 +2,6 @@ import React from 'react';
 import { Container, Typography, Grid, Card, CardContent, CardMedia } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useLanguage } from '../contexts/LanguageContext';
-import MapViewer from './MapViewer';
-
 const Home = () => {
   const navigate = useNavigate();
   const { lang } = useLanguage();
@@ -78,7 +76,6 @@ const Home = () => {
           </Card>
         </Grid>
       </Grid>
-      <MapViewer />
     </Container>
   );
 };
