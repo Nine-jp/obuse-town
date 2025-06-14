@@ -36,7 +36,7 @@ const Home = () => {
             <CardMedia
               component="img"
               height="200"
-              image="https://images.unsplash.com/photo-1506111583091-b0c41f3d6f80?auto=format&fit=crop&w=800&q=60"
+              image="/images/attractions-thumbnail.jpg"
               alt="観光地"
             />
             <CardContent sx={{ flexGrow: 1 }}>
@@ -62,7 +62,7 @@ const Home = () => {
             <CardMedia
               component="img"
               height="200"
-              image="https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=60"
+              image="/images/restaurants-thumbnail.jpg"
               alt="レストラン"
             />
             <CardContent sx={{ flexGrow: 1 }}>
