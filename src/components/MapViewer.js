@@ -1,16 +1,8 @@
 import React from 'react';
-import { Document, Page } from 'react-pdf';
 import { Box, Typography, Paper, IconButton } from '@mui/material';
 import { Download } from '@mui/icons-material';
 
 const MapViewer = () => {
-  const [numPages, setNumPages] = React.useState(null);
-  const [pageNumber, setPageNumber] = React.useState(1);
-
-  function onDocumentLoadSuccess({ numPages }) {
-    setNumPages(numPages);
-  }
-
   return (
     <Box sx={{ mt: 4, mx: 2 }}>
       <Paper elevation={3} sx={{ p: 2, mb: 2 }}>
@@ -33,19 +25,12 @@ const MapViewer = () => {
         </IconButton>
       </Paper>
 
-      <Box sx={{ width: '100%', maxWidth: 1000, mx: 'auto' }}>
-        <Document
-          file="/images/map_2025.pdf"
-          onLoadSuccess={onDocumentLoadSuccess}
-        >
-          <Page pageNumber={pageNumber} />
-        </Document>
-      </Box>
-
-      <Box sx={{ mt: 2, display: 'flex', justifyContent: 'center' }}>
-        <Typography>
-          ページ {pageNumber} / {numPages}
-        </Typography>
+      <Box sx={{ width: '100%', maxWidth: 1000, mx: 'auto', mt: 2 }}>
+        <img 
+          src="/images/map_2025.pdf" 
+          alt="小布施町観光地図" 
+          style={{ width: '100%', maxWidth: '1000px' }}
+        />
       </Box>
     </Box>
   );
