@@ -89,6 +89,83 @@
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
       "cuisine": "茶室"
+    },
+    {
+      "id": "11",
+      "name": "寄り付き料理 蔵部",
+      "name_en": "Kurabu",
+      "description": "小布施の伝統的な和食を提供する料亭。地元の食材を使用した季節の料理が人気です。",
+      "description_en": "A traditional Japanese restaurant offering seasonal dishes using local ingredients.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "和食",
+      "link": "https://www.obusekurabu.com/"
+    },
+    {
+      "id": "12",
+      "name": "そば歳時記 富蔵家",
+      "name_en": "Tomikuraya",
+      "description": "小布施の老舗そば屋。手打ちそばと季節の天ぷらが人気です。",
+      "description_en": "A traditional soba restaurant known for its handmade soba noodles and seasonal tempura.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "和食",
+      "link": "https://tomikuraya.com/"
+    },
+    {
+      "id": "13",
+      "name": "長野土鍋ラーメン たけさん",
+      "name_en": "Takesan Donabe Ramen",
+      "description": "長野の地元食材を使用した土鍋ラーメンが人気の店。あっさりとしたスープが特徴です。",
+      "description_en": "A ramen restaurant specializing in donabe (earthen pot) ramen using local ingredients from Nagano. Known for its light broth.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "ラーメン",
+      "link": "https://www.takesan-donabe.co.jp/"
+    },
+    {
+      "id": "14",
+      "name": "桂亭",
+      "name_en": "Katsuratei",
+      "description": "小布施の老舗旅館の料亭。北斎の絵馬を鑑賞しながら、本格的な和食を楽しめます。",
+      "description_en": "A traditional ryotei (Japanese restaurant) attached to a long-established inn. Enjoy authentic Japanese cuisine while viewing Hokusai's votive tablets.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "和食",
+      "link": "https://www.obusekanko.jp/spot/katsuratei"
+    },
+    {
+      "id": "15",
+      "name": "紅茶とケーキの専門店 栗の木テラス",
+      "name_en": "Kuri no Ki Terrace",
+      "description": "紅茶とケーキの専門店。季節の限定メニューも人気です。",
+      "description_en": "A specialty store for tea and cakes. Seasonal limited menus are also popular.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "カフェ",
+      "link": "https://www.obusekanko.jp/spot/terace"
+    },
+    {
+      "id": "16",
+      "name": "えんとつ",
+      "name_en": "Entotsu",
+      "description": "円通寺の境内にある茶室。北斎の絵馬を鑑賞しながら、抹茶と和菓子を楽しめます。",
+      "description_en": "A tea room within Entotsu-ji temple grounds. Enjoy matcha and Japanese sweets while viewing Hokusai's votive tablets.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "茶室",
+      "link": "https://www.obusekanko.jp/spot/entotsu"
+    },
+    {
+      "id": "17",
+      "name": "桜井甘精堂",
+      "name_en": "Sakurai Kaseido",
+      "description": "小布施の老舗和菓子店。栗の最中や栗の羊羹が人気です。季節限定の栗の和菓子もおすすめです。",
+      "description_en": "A traditional Japanese confectionery shop in Obuse. Known for its chestnut dorayaki and chestnut yokan. Seasonal chestnut sweets are also recommended.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
+      "address": "長野県小布施町小布施1349-1",
+      "cuisine": "和菓子",
+      "link": "https://www.kanseido.co.jp/"
     }
   ]
 }
