@@ -78,6 +78,7 @@ const Home = () => {
           </Card>
         </Grid>
       </Grid>
+      <MapViewer />
     </Container>
   );
 };

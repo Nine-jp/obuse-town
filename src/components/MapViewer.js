@@ -17,8 +17,8 @@ const MapViewer = () => {
           color="primary"
           aria-label="download"
           component="a"
-          href="/images/map_2025.pdf"
-          download
+          href="/map_2025.pdf"
+          download="小布施町観光地図.pdf"
           sx={{ ml: 1 }}
         >
           <Download />
@@ -27,7 +27,7 @@ const MapViewer = () => {
 
       <Box sx={{ width: '100%', maxWidth: 1000, mx: 'auto', mt: 2 }}>
         <img 
-          src="/images/map_2025.pdf" 
+          src="/map_2025.pdf" 
           alt="小布施町観光地図" 
           style={{ width: '100%', maxWidth: '1000px' }}
         />
