@@ -3,7 +3,7 @@ import { Container, Grid, Card, CardContent, CardMedia, Typography, Button } fro
 import restaurantsData from '../data/restaurants.json';
 import { useLanguage } from '../contexts/LanguageContext';
 import { Link as RouterLink } from 'react-router-dom';
-import { Link as ExternalLink } from '@mui/material/Link';
+import { Link } from '@mui/material';
 
 const Restaurants = () => {
   const { lang } = useLanguage();
@@ -36,9 +36,9 @@ const Restaurants = () => {
                 </Typography>
                 {restaurant.link && (
                   <Typography variant="subtitle1" color="text.secondary" sx={{ mt: 2 }}>
-                    <ExternalLink href={restaurant.link} target="_blank" rel="noopener noreferrer">
+                    <Link href={restaurant.link} target="_blank" rel="noopener noreferrer">
                       {lang === 'ja' ? '公式サイト' : 'Official Website'}
-                    </ExternalLink>
+                    </Link>
                   </Typography>
                 )}
                 {lang !== 'ja' && (
