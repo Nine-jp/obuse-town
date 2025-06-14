@@ -1,7 +1,9 @@
 import React from 'react';
-import { Container, Grid, Card, CardContent, CardMedia, Typography } from '@mui/material';
+import { Container, Grid, Card, CardContent, CardMedia, Typography, Button } from '@mui/material';
 import restaurantsData from '../data/restaurants.json';
 import { useLanguage } from '../contexts/LanguageContext';
+import { Link as RouterLink } from 'react-router-dom';
+import { Link as ExternalLink } from '@mui/material/Link';
 
 const Restaurants = () => {
   const { lang } = useLanguage();
@@ -32,6 +34,13 @@ const Restaurants = () => {
                 <Typography variant="subtitle1" color="text.secondary" sx={{ mt: 2 }}>
                   {restaurant.address}
                 </Typography>
+                {restaurant.link && (
+                  <Typography variant="subtitle1" color="text.secondary" sx={{ mt: 2 }}>
+                    <ExternalLink href={restaurant.link} target="_blank" rel="noopener noreferrer">
+                      {lang === 'ja' ? '公式サイト' : 'Official Website'}
+                    </ExternalLink>
+                  </Typography>
+                )}
                 {lang !== 'ja' && (
                   <Typography variant="subtitle1" color="text.secondary">
                     Cuisine: {restaurant.cuisine}
