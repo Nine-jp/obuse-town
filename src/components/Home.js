@@ -36,7 +36,7 @@ const Home = () => {
             <CardMedia
               component="img"
               height="200"
-              image="/images/attractions-thumbnail.jpg"
+              image="/images/attractions-thumbnail-resize.jpg"
               alt="観光地"
             />
             <CardContent sx={{ flexGrow: 1 }}>
@@ -62,7 +62,7 @@ const Home = () => {
             <CardMedia
               component="img"
               height="200"
-              image="/images/restaurants-thumbnail.jpg"
+              image="/images/restaurants-thumbnail-resize.jpg"
               alt="レストラン"
             />
             <CardContent sx={{ flexGrow: 1 }}>
