@@ -8,8 +8,7 @@
       "description_en": "A famous chestnut shop in Obuse. Offers various chestnut dishes, including popular chestnut parfaits and Mont Blanc desserts.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1197-1",
-      "cuisine": "和菓子",
-      "link": "https://www.kurinomura.com/"
+      "cuisine": "和菓子"
     },
     {
       "id": "2",
@@ -19,8 +18,7 @@
       "description_en": "A traditional Japanese confectionery shop in Obuse. Known for its chestnut dorayaki and chestnut yokan. Seasonal chestnut sweets are also recommended.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "和菓子",
-      "link": "https://www.kurinoki.com/"
+      "cuisine": "和菓子"
     },
     {
       "id": "3",
@@ -30,8 +28,7 @@
       "description_en": "A traditional shop selling Obuse's famous chestnut yokan and chestnut anpan. Known for its Hokusai votive tablets.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "和菓子",
-      "link": "https://www.obuse-do.com/"
+      "cuisine": "和菓子"
     },
     {
       "id": "4",
@@ -41,8 +38,7 @@
       "description_en": "A cafe attached to Kuri no Ki. Popular for chestnut parfaits, Mont Blanc, and curry lunch.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "カフェ",
-      "link": "https://www.kurinoki.com/"
+      "cuisine": "カフェ"
     },
     {
       "id": "5",
@@ -52,8 +48,7 @@
       "description_en": "A cafe attached to Obuse-do. Enjoy Japanese sweets and light meals while viewing Hokusai's votive tablets.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "カフェ",
-      "link": "https://www.obuse-do.com/"
+      "cuisine": "カフェ"
     },
     {
       "id": "7",
@@ -63,8 +58,7 @@
       "description_en": "A traditional Japanese restaurant offering seasonal dishes using local ingredients.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "和食",
-      "link": "https://www.obusekanko.jp/spot/obusean"
+      "cuisine": "和食"
     },
     {
       "id": "8",
@@ -74,8 +68,7 @@
       "description_en": "A traditional ryotei (Japanese restaurant) attached to a long-established inn. Enjoy authentic Japanese cuisine while viewing Hokusai's votive tablets.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "和食",
-      "link": "https://www.obusekanko.jp/spot/katsuratei"
+      "cuisine": "和食"
     },
     {
       "id": "9",
@@ -85,8 +78,7 @@
       "description_en": "A cafe where you can enjoy light meals and drinks while viewing Obuse's beautiful scenery. The terrace seats are popular.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "カフェ",
-      "link": "https://www.obusekanko.jp/spot/terace"
+      "cuisine": "カフェ"
     },
     {
       "id": "10",
@@ -96,8 +88,7 @@
       "description_en": "A tea room within Entotsu-ji temple grounds. Enjoy matcha and Japanese sweets while viewing Hokusai's votive tablets.",
       "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=60",
       "address": "長野県小布施町小布施1349-1",
-      "cuisine": "茶室",
-      "link": "https://www.obusekanko.jp/spot/entotsu"
+      "cuisine": "茶室"
     }
   ]
 }
